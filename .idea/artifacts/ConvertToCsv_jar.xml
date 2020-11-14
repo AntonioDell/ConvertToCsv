@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ConvertToCsv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConvertToCsv_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ConvertToCsv.jar">
+        <element id="module-output" name="ConvertToCsv" />
+      </element>
+      <element id="library" level="project" name="JafaFX 11" />
+    </root>
+  </artifact>
+</component>
